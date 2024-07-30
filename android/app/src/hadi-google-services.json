@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635472076618",
+    "project_id": "merchant-development-bni",
+    "storage_bucket": "merchant-development-bni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635472076618:android:936dea160f40d67ac0abb3",
+        "android_client_info": {
+          "package_name": "co.id.bni.merchant.development"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTMmNqJ790JLR0gPG2MMgOoZElNiE0Xqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22172628822",
+    "project_id": "bni-merchant-flutter-d2e9a",
+    "storage_bucket": "bni-merchant-flutter-d2e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22172628822:android:56208f9a94b22237de08f7",
+        "android_client_info": {
+          "package_name": "id.bni.wfb.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBcMi2trGPkimHruffot4m7iX95S422Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22172628822:android:d0666a315570781ade08f7",
+        "android_client_info": {
+          "package_name": "id.bni.wfb.it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBcMi2trGPkimHruffot4m7iX95S422Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
